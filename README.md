@@ -1,5 +1,10 @@
-# MSDS_TechnicalOrientation
+# MSDS TechnicalOrientation
 This GitHub repo is for storing all files and practices learned during the MSDS '24 Orientation. It also includes useful sources to view when starting a new GitHub repository.
+
+### Histogram
+Below is a histogram created to practice using a coding environment and using github to store it.
+
+![alt text](https://github.com/nem2pq/MSDS_TechnicalOrientation/blob/main/Histogram_Final.png?raw=true)
 
 
 ### Here are links to a few good sources on how to write a good README.md file:
